@@ -1,12 +1,6 @@
-# Hi you 👋🏼
-
-My name is William, I love creating websites with [Laravel](https://github.com/laravel).
-
-
-## What I like to do: 
-
-😍 [Laravel Framework](https://github.com/laravel) <br>
-❤️ [DDEV](https://www.ddev.com/) <br>
-✅ [Tailwind](https://github.com/tailwindlabs) <br>
-✅ [TALL-Stack](https://tallstack.dev) <br>
-✅ [Filamentphp](https://filamentphp.com) <br>
+<a href="https://github.com/williamengbjerg/williamengbjerg">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/williamengbjerg/williamengbjerg/main/dark_mode.svg">
+    <img alt="William's GitHub profile" src="https://raw.githubusercontent.com/williamengbjerg/williamengbjerg/main/light_mode.svg">
+  </picture>
+</a>
